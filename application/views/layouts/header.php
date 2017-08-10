@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <head>
 	<meta charset="utf-8">
 	<title>Welcome to CodeIgniter</title>
-	<link rel="stylesheet" href="node_modules/material-components-web/dist/material-components-web.css">
+	<link rel="stylesheet" href="public/css/app.css">
 </head>
 <body class="color-blue">
 <header class="mdc-toolbar">
