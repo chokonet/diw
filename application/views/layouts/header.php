@@ -15,7 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	  	  	 	<h1 class="logo"><a href="<?php echo base_url(); ?>">DocInWay</a></h1>
 	  	  	 	<a class="btn-login" href="">
 	  	  	 		Iniciar sesión
-	  	  	 		<img src="<?php echo img_url().'icons/account.svg' ?>" alt="">
+	  	  	 		<?php echo img('icons/account.svg'); ?>
 	  	  	 	</a>
 	  	  	</section>
 	  </div>
